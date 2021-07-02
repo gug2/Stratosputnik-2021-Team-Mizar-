@@ -25,10 +25,10 @@ boolean
   enableLedPanel = true,
   
 //// == Генератор частот == //
-  enableFrequencyGenerator = false,
+  enableFrequencyGenerator = true,
   
 //// == Нагреватель батареи == //
-  enableHeater = false,
+  enableHeater = true,
   
 //// == Пережигание для антенн == //
   enablePerejig = false,
@@ -40,7 +40,7 @@ boolean
   enableLogger = true,
   
 //// == GPS приемник == //
-  enableGPS = false,
+  enableGPS = true,
   
 //// == Датчики температуры == //
   enableTemperatureSensors = true,
